@@ -71,7 +71,7 @@ const Home = () => {
                     </a>
                 </div>
             </div>
-            <footer className='fixed bottom-0 py-4 '>
+            {/* <footer className='fixed bottom-0 py-4 '>
                 <h4>
                     Built with &#10084; by 
                     <a href="https://github.com/itzzzme"
@@ -80,7 +80,7 @@ const Home = () => {
                         &nbsp;Sayan
                     </a>
                 </h4>
-            </footer>
+            </footer> */}
         </div>
 
     )
