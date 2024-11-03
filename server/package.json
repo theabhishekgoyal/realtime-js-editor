@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "process": "^0.11.10",
+    "socket.io": "^4.7.5"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build":"npm install"
+
+  },
+  "type": "module"
+}
