@@ -7,5 +7,5 @@ export const initSocket = async () => {
         timeout: 10000,
         transports: ['websocket'],
     };
-    return io("https://realtime-js-code-editor.onrender.com/", options);
+    return io("http://localhost:6969/", options);
 }
